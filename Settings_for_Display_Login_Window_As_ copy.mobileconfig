@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Login Window</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.domain.edu.824888c0-0572-0134-262f-000c29bcc5f4.alacarte.loginwindow.e2e68a50-0572-0134-2630-000c29bcc5f4.loginwindow</string>
+			<key>PayloadType</key>
+			<string>com.apple.loginwindow</string>
+			<key>PayloadUUID</key>
+			<string>1132b6b9-8bd8-b20b-a47d-e91425fcc428</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SHOWFULLNAME</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets the Loginwindow to show name and password fields</string>
+	<key>PayloadDisplayName</key>
+	<string>Settings for Display Login Window As</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.domain.edu.824888c0-0572-0134-262f-000c29bcc5f4.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>ITS</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>824888c0-0572-0134-262f-000c29bcc5f4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
